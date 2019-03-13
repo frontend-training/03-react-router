@@ -26,6 +26,7 @@ import {
 
 ```bash
 npm install react-router-dom --save
+npm install --save @types/react-router-dom
 ```
 
 ---
