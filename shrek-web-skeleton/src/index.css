@@ -1,0 +1,21 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Sniglet', cursive;
+}
+
+.menu a {
+  margin: 10px;
+  cursor: pointer;
+}
+
+.content {
+  width: 800px;
+  text-align: left;
+  margin: auto;
+  padding: 20px;
+}
+
+h1, h2, h3 {
+  font-family: 'Srisakdi', cursive;
+}
